@@ -34,9 +34,8 @@ plugins:
   - search
 
 nav:
-  - Computer Science: computer-science.md
-  - English: english.md
-  - Geography: geography.md
-  - Music: production.md
-  - Politics: politics.md
+  - Acoustic: acoustic.md
+  - Harmony: harmony.md
+  - Music Notation: music-notation.md
+  - Production: production.md
   - Repertoire: repertoire.md
