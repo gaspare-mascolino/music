@@ -1,0 +1,42 @@
+site_name: Music
+site_url: https://gaspare-mascolino.github.io/music/
+
+theme:
+  name: null
+  custom_dir: docs/mkdocs-material
+  language: en
+  favicon: 'assets/images/triskele.png'
+  feature:
+    tabs: true
+  palette:
+    primary: 'white'
+    accent: 'white'
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: 'assets/images/triskele.png'
+
+extra_css:
+  - stylesheets/style.css
+
+extra_javascript:
+  - javascripts/extra.js
+  
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+
+docs_dir: docs/pages
+
+plugins:
+  - search
+
+nav:
+  - Computer Science: computer-science.md
+  - English: english.md
+  - Geography: geography.md
+  - Music: production.md
+  - Politics: politics.md
+  - Repertoire: repertoire.md
