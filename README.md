@@ -1,7 +1,9 @@
 
 ## See documentation locally
+
 ```shell script
-mkdocs serve
+pip3 install mkdocs==1.3.1
+python3 -m mkdocs serve
 ```
 
 ## How to create songs

@@ -15,9 +15,11 @@ The **phase** specifies the location or timing of a point within a wave cycle of
 
 ![](assets/images/music/acoustic/phase-reversal.png)
 
-!!! Warning Two sounds in phase reversal cancel each other out.
+!!! Warning 
+    Two sounds in phase reversal cancel each other out.
 
-!!! Info Two identical sounds were sum increasing the volume of the double
+!!! Info 
+    Two identical sounds were sum increasing the volume of the double
 
 ### Sound
 
@@ -47,8 +49,9 @@ can interfere with the incident wave causing a standing wave in the near field. 
 - one part was **transmitted**
 - one part was **reflected** (both in phase and out of phase, falsifying or deleting some frequencies of the sound)
 
-!!! Warning If the surface where the sound reflect opposes greater resistance than the means that leads it. The sound
-will be reflected in phase, otherwise in out of phase.
+!!! Warning 
+    If the surface where the sound reflect opposes greater resistance than the means that leads it. The sound
+    will be reflected in phase, otherwise in out of phase.
 
 Principal characteristics of sound are:
 
@@ -69,7 +72,8 @@ Principal characteristics of sound are:
 
    ![](assets/images/music/acoustic/adsr.png)
 
-!!! Info Transient defined means a precise variation of the amplitude.
+!!! Info 
+    Transient defined means a precise variation of the amplitude.
 
 **Harmonic**
 
@@ -81,6 +85,7 @@ The original signal is also called the 1st harmonic(main harmonic), the other ha
 frequency, the sum of harmonics is also periodic at that frequency. The set of harmonics forms a harmonic series. Not
 all the harmonics are in the tonality of the song (E.g VII m), this will cause some resonances.
 
-!!! Info Two notes with fundamental frequencies in a ratio equal to any integer power of two (e.g., half, twice, or four
-times) are perceived as very similar. Because of that, all notes with these kinds of relations can be grouped under the
-same pitch class.
+!!! Info 
+    Two notes with fundamental frequencies in a ratio equal to any integer power of two (e.g., half, twice, or four
+    times) are perceived as very similar. Because of that, all notes with these kinds of relations can be grouped under the
+    same pitch class.

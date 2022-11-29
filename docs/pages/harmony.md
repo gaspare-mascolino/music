@@ -53,10 +53,12 @@ The bass could move as follows:
    IV up to the fundamental, a V diminished could be used as passing note in order to create a chromatic sequence
    I-V-bV-(I of IV).
 
-!!! Info Bass sounds well when it is linked with the kick or in backlash.
+!!! Info 
+    Bass sounds well when it is linked with the kick or in backlash.
 
-!!! Warning The III and the VII doesn't sound very well on the beat instead of passing note on the upbeat (duration less
-or equal of an 1/8).
+!!! Warning 
+    The III and the VII doesn't sound very well on the beat instead of passing note on the upbeat (duration less
+    or equal of an 1/8).
 
 It is useful to harmonise the singing note with the bass with a III or a VI.
 
@@ -95,18 +97,18 @@ The symbols used for notating chords are:
     - **m7(♭5)/ø**: Diminished chord + VII Minor (III Minor up)
 
 !!! Note
-**Resolution of the dominant VII chord**
-
-    - complete: Bass VII - and Violin (any of the3 positions)
-    - incomplete: Bass VII - and Violin (omit the V in the 3 positions)
-
-    VII incomplete - I tonic:
+    **Resolution of the dominant VII chord**
     
-    1. The VII of the chord tends to the III of the I tonic chord
-    2. The III of the chord tend to the I of the I tonic chord
-    3. The VIII (double substituted of the V) in common with the V Perfect of the I tonic
-
-    In Major tonality IV joint down to III, VII joint up to I/VIII
+        - complete: Bass VII - and Violin (any of the3 positions)
+        - incomplete: Bass VII - and Violin (omit the V in the 3 positions)
+    
+        VII incomplete - I tonic:
+        
+        1. The VII of the chord tends to the III of the I tonic chord
+        2. The III of the chord tend to the I of the I tonic chord
+        3. The VIII (double substituted of the V) in common with the V Perfect of the I tonic
+    
+        In Major tonality IV joint down to III, VII joint up to I/VIII
 
 - **9** indicates a ninth chord, which in jazz usually includes the dominant seventh as well, if it is a dominant chord
   (**2** + an octave).
@@ -120,8 +122,9 @@ The symbols used for notating chords are:
 - **sus4** (or simply 4) indicates a sus chord with the third omitted and the fourth used instead. Other notes may be
   added to a sus4 chord, indicated with the word "add" and the scale degree (Asus4(add9) or Asus4(add7)).
 
-!!! Note Sus chords (because of there is no the third) creates instability, to give colour to a melody and to link
-chords with shared note.
+!!! Note 
+    Sus chords (because of there is no the third) creates instability, to give colour to a melody and to link
+    chords with shared note.
 
 - **(♭9)** (parenthesis) is used to indicate explicit chord alterations (e.g., A7(♭9)). The parenthesis is probably left
   from older days when jazz musicians weren't used to "altered chords".
@@ -196,10 +199,12 @@ create II - V - I).
 
 Each IIm could be preceded from a V7 (V7/II relative).
 
-!!! Info The same rules worth for major and minor chord.
+!!! Info 
+    The same rules worth for major and minor chord.
 
-!!! Warning Also a IV Major could be replaced with a IV Minor as long as the altered note was not played on the previous
-chords.
+!!! Warning 
+    Also a IV Major could be replaced with a IV Minor as long as the altered note was not played on the previous
+    chords.
 
 ### Circle of fifth
 
@@ -228,8 +233,9 @@ closely possible); 13th, 11th, 9th and the 7th can be used **only on the sing pa
 
     When a chord remains stationary the guide note could be changed.
 
-!!! Note In harmonization it is better to use at least a 3rd minor under. Often if a 13th, 11th, 9th and the 7th is on
-the sing part it used to put an inversion with the root note not at the bottom of the chord.
+!!! Note 
+    In harmonization it is better to use at least a 3rd minor under. Often if a 13th, 11th, 9th and the 7th is on
+    the sing part it used to put an inversion with the root note not at the bottom of the chord.
 
 *Harmonization in 4 parts*
 
@@ -257,9 +263,10 @@ To harmonize in 4 part could be usefully the I (double), V (double) or the VI.
     - **Close note of the scale**: Whatever notes on top of one structured note of the chord. Those note will be always 
     of short duration (1/8 or less).
 
-!!! Info The most important things to understand ia the technique to know the rapport between scale and chord. Use
-whatever note which belongs to the key reference to approach to a structured note. **Pay attention to the use the 11th
-on the Major chord, it could be a violation**.
+!!! Info 
+    The most important things to understand ia the technique to know the rapport between scale and chord. Use
+    whatever note which belongs to the key reference to approach to a structured note. **Pay attention to the use the 11th
+    on the Major chord, it could be a violation**.
 
 ### Intervals
 
@@ -431,7 +438,8 @@ is an ascending scale, and a scale ordered by decreasing pitch is a descending s
 - **Pentatonic scale**: defined as the major scale without the IV (descending sensible/leading tone) and VII grades
   (ascending sensible/leading tone).
 
-!!! Warning A scale is formed at least by 5 notes, otherwise it is a fragment of a scale.
+!!! Warning 
+    A scale is formed at least by 5 notes, otherwise it is a fragment of a scale.
 
 The **modus** relates to the organisation of pitch in scales, start from a specific grade of the major scale.
 
@@ -485,8 +493,10 @@ others are collateral.
 |   m   |   M   |       M        |     dim      |    m7     |         M7          |       ø           |
 |  dim  |   M   |      dim       |     dim      |    ø      |        7dim         |       ø           |
 
-!!! Note The V degree as always take part of the tonal group but with the difference that the VII is minor, and it
-generates a dominant 7th chord which produce a particular sound, and it tends to the tonic note (it is a leading tone).
+!!! Note 
+    The V degree as always take part of the tonal group but with the difference that the VII is minor, and it
+    generates a dominant 7th chord which produce a particular sound, and it tends to the tonic note (it is a leading tone).
 
-!!! Warning It could be useful use a chord in common between two different scales as "bridge" to change tonality, the V
-of the Melodic Minor 7th is in common with a V of a Major scale VII or an IV of another Melodic Minor VII
+!!! Warning 
+    It could be useful use a chord in common between two different scales as "bridge" to change tonality, the V
+    of the Melodic Minor 7th is in common with a V of a Major scale VII or an IV of another Melodic Minor VII

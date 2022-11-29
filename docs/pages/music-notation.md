@@ -180,21 +180,21 @@ A **dotted note** is a note with a small dot written after it. In modern practic
 of the basic note by half (the original note with an extra beam) of its original value. This means that a dotted note is
 equivalent to writing the basic note tied to a note of half the value.
 
-![](assets/images/music/music-notation/dotted-notes.png)
+![](assets/images/music/music-notation/dotted-notes.png){ style="display: block; margin: 0 auto" }
 
 **Tie**
 
 A **tie** is a curved line connecting the heads of two notes of the same pitch, indicating that they are to be played as
 a single note with a duration equal to the sum of the individual notes' values.
 
-![](assets/images/music/music-notation/tie.png)
+![](assets/images/music/music-notation/tie.png){ style="display: block; margin: 0 auto" }
 
 **Legato**
 
 A legato indicates that musical notes are played or sung smoothly and connected. That is, the player makes a transition
 from note to note with no intervening silence.
 
-![](assets/images/music/music-notation/legato.png)
+![](assets/images/music/music-notation/legato.png){ style="display: block; margin: 0 auto" }
 
 ### Staff
 
@@ -204,7 +204,7 @@ Appropriate music symbols, depending on the intended effect, are placed on the s
 pitch or function. Musical notes are placed by pitch, percussion notes are placed by instrument, and rests and other
 symbols are placed by convention.
 
-![](assets/images/music/music-notation/staff.png)
+![](assets/images/music/music-notation/staff.png){ style="display: block; margin: 0 auto" }
 
 **Ledger line**
 
@@ -212,7 +212,7 @@ A **ledger line** is used in Western musical notation to notate pitches above or
 regular musical staff. A line slightly longer than the note head is drawn parallel to the staff, above or below, spaced
 at the same distance as the lines within the staff.
 
-![](assets/images/music/music-notation/ledger-line.png)
+![](assets/images/music/music-notation/ledger-line.png){ style="display: block; margin: 0 auto" }
 
 ### Time signatures
 
