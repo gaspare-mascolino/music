@@ -80,7 +80,7 @@ Principal characteristics of sound are:
 A **Harmonic** is a wave with a frequency that is a positive integer multiple of the fundamental frequency, the
 frequency of the original periodic signal, such as a sinusoidal wave.
 
-The original signal is also called the 1st harmonic(main harmonic), the other harmonics are known as higher harmonics
+The original signal is also called the 1st harmonic (main harmonic), the other harmonics are known as higher harmonics
 (collateral harmonic, one or more depending on the instrument). As all harmonics are periodic at the fundamental
 frequency, the sum of harmonics is also periodic at that frequency. The set of harmonics forms a harmonic series. Not
 all the harmonics are in the tonality of the song (E.g VII m), this will cause some resonances.
